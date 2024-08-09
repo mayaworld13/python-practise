@@ -1,3 +1,5 @@
+# finding the number of days in a month in particular year
+
 year = int(input("enter the year :"))
 
 month = int(input("enter the year in range 1 - 12 :"))
